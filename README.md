@@ -3,6 +3,9 @@
 MIS Student @ Texas A&M | Cloud, Data, and AI | Building practical systems
 
 Experience:
-Internship as a Cloud Infrastructure Analyst @ Mouser Electronics
+
+Incoming AE @ Whiting-Turner Contracting Company
+
+Intern: Cloud Infrastructure Analyst @ Mouser Electronics
 
 ***
